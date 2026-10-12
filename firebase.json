@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "site": "myinvitee-50b0e",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "backup-original/**",
+      "firebase-debug.log",
+      "READ-ME.txt",
+      "LICENSE.txt",
+      "mobile-app-html-template.jpg"
+    ]
+  }
+}
